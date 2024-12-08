@@ -138,7 +138,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hemaprakash Raghu - [@imprakashraghu](https://twitter.com/imprakashraghu)
+Hemaprakash Raghu - [@imprakashraghu](https://twitter.com/imprakashraghu)<br/>
+Vignesh Natarajan - [@vigneshn200](https://www.linkedin.com/in/vigneshn200/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

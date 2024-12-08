@@ -146,13 +146,13 @@ function Home() {
             </div> */}
         </div>
         <div className='w-[40%] h-[100vh] absolute right-0 grad__animate flex items-center justify-center'>
-            <div className='rounded-xl bg-white min-h-[60%] shadow w-[60%] p-6 space-y-4'>
+            <div className='rounded-xl bg-white min-h-[75%] shadow w-[60%] p-6 space-y-4 flex flex-col items-start justify-between'>
                 <div className='w-[80px] h-[80px] bg-gray-300'></div>
                 <div className='w-[50%] bg-gray-300 h-[10px]'></div>
                 <h1 className='text-3xl font-regular text-left text-black'>
-                    As per studies, one word of your <span className='' id='subtext2'></span> <br/>is worth almost<br/> <span className='font-black'>$60 United States Dollar</span>.
+                    As per studies, average cost of a data breach of your <span className='' id='subtext2'></span> <br/>is almost high of <br/> <span className='font-black'>$4.45 million United States Dollar</span>.
                 </h1>
-                <p className='text-gray-400 text-sm py-2'>trendmicro.com</p>
+                <p onClick={() => window.open('https://www.thomsonreuters.com/en-us/posts/government/identity-theft-drivers/')} className='hover:underline cursor-pointer text-gray-400 text-sm py-2'>www.thomsonreuters.com</p>
             </div>
         </div>
         {/* <div className='relative flex flex-row items-center'>

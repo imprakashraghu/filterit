@@ -24,7 +24,7 @@ code {
 .grad__animate {
   background: linear-gradient(45deg, #FF0076, #DA0000, #FCFCFC);
   background-size: 600% 600%;
-  animation: GradientBackground 9s ease infinite;
+  animation: GradientBackground 5s ease infinite;
 }
 
 

@@ -1,5 +1,4 @@
 <a id="readme-top"></a>
-[![MIT License][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
@@ -139,7 +138,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hemaprakash Raghu - [@imprakashraghu](https://twitter.com/imprakashraghu) - email@example.com
+Hemaprakash Raghu - [@imprakashraghu](https://twitter.com/imprakashraghu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

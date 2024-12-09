@@ -1,0 +1,15 @@
+Flask
+Flask-Cors
+Flask-Bcrypt
+Flask-RESTful
+PyJWT
+pymongo
+flasgger
+spacy
+pdfplumber
+fpdf
+python-dotenv
+geonamescache
+pycountry
+pyotp
+sib-api-v3-sdk
